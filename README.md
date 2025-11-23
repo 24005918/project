@@ -1,5 +1,5 @@
 # Project Responsive Web Design using Bootstrap
-# Date:22.12.2024
+# Date:20.11.2025
 # AIM:
 To create a simplified clone of Dribbble (https://dribbble.com/) landing page.
 
@@ -336,7 +336,7 @@ footer {
 }
 ```
 # OUTPUT:
-![Screenshot 2024-12-22 133738](https://github.com/user-attachments/assets/f3049eac-84d7-44ad-a182-e1bcf0fc875a)
+<img width="1387" height="1015" alt="image" src="https://github.com/user-attachments/assets/aefb54e3-c06e-49a3-84b7-6b3d247d1a3e" />
 
 
 # RESULT:
