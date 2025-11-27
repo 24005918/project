@@ -336,7 +336,7 @@ footer {
 }
 ```
 # OUTPUT:
-<img width="1387" height="1015" alt="image" src="https://github.com/user-attachments/assets/aefb54e3-c06e-49a3-84b7-6b3d247d1a3e" />
+<img width="1387" height="1015" alt="Screenshot 2025-11-23 191139" src="https://github.com/user-attachments/assets/8b579f37-8f26-4215-81fd-f83f83dcce93" />
 
 
 # RESULT:
